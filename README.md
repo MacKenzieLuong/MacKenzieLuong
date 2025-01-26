@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MacKenzieLuong
 - 👀 I’m interested in game development and accessibility
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any game jams!
 - 😄 Pronouns: she/her
 
 <!---
